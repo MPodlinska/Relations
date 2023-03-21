@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1610291479 source:c:\users\mpodl\onedrive\pulpit\projekt 2\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<cstring>
+
