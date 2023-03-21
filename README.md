@@ -7,7 +7,7 @@ We have a file with ralations of people, for example "Adam John", they are frind
 ## Difficulties with this task:
 We cannot work on tables. We are going to open the file and looking on one relation after another relation. 
 
-## Example (- means anoother line in the file)
+## Example (- means another line in the file)
 File with relations:
 
 -Kasia Andrzej
