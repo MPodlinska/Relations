@@ -7,31 +7,31 @@ We have a file with ralations of people, for example "Adam John", they are frind
 ## Difficulties with this task:
 We cannot work on tables. We are going to open the file and looking on one relation after another relation. 
 
-## Example
+## Example (- means anoother line in the file)
 File with relations:
 
-*Kasia Andrzej
-*Andrzej Tomek
-Tomek Julia
-Julia Zuzanna
-Zuzanna Ola
-Ola Krystian
-Krystian Sara
-Sara Dorian
-Dorian Adam
+-Kasia Andrzej
+-Andrzej Tomek
+-Tomek Julia
+-Julia Zuzanna
+-Zuzanna Ola
+-Ola Krystian
+-Krystian Sara
+-Sara Dorian
+-Dorian Adam
 
 Final file:
 
-Kasia Tomek
-Andrzej Julia
-Tomek Kasia Zuzanna
-Julia Andrzej Ola
-Zuzanna Tomek Krystian
-Ola Julia Sara
-Krystian Zuzanna Dorian
-Sara Ola Adam
-Dorian Krystian
-Adam Sara
+-Kasia Tomek
+-Andrzej Julia
+-Tomek Kasia Zuzanna
+-Julia Andrzej Ola
+-Zuzanna Tomek Krystian
+-Ola Julia Sara
+-Krystian Zuzanna Dorian
+-Sara Ola Adam
+-Dorian Krystian
+-Adam Sara
 
 We are going to focus on Krystian. Krystian is frinds with Ola and Sara. Ola is friends with Zuzanna and Sara is friends with Dorian. So for Krystian friend of his firiends are Zuzanna and Dorian.
 
