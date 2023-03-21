@@ -10,8 +10,8 @@ We cannot work on tables. We are going to open the file and looking on one relat
 ## Example
 File with relations:
 
-Kasia Andrzej
-Andrzej Tomek
+*Kasia Andrzej
+*Andrzej Tomek
 Tomek Julia
 Julia Zuzanna
 Zuzanna Ola
