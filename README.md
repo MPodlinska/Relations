@@ -1,5 +1,5 @@
 # Relations (University Project)
-Creating a file with list of friends of their friends.
+University project, implemented in C++.
 
 ##  Description
 We have a file with ralations of people, for example "Adam John", they are frinds, for Adam so it will be looking for people wo are frinds with John and at the same time they are not friends with Adam. Every next line in the file is relation like that one in example. When programme starts, we have point the file and click enter twice. The project will fill the file with list of friends of their friends.
